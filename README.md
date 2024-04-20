@@ -14,7 +14,6 @@ Express your heartfelt affection with this special Love Message Website, dedicat
 - **Interactive Design**: Easily move and customize love notes with a simple drag-and-drop interface.
 - **Expressive Messages**: Touching messages and charming visuals to convey your affection.
 - **Dedicated to Sakshi**: This website is exclusively designed for Sakshi to view, making it a personalized expression of love.
-- **Made with Love**: Created with heartfelt sentiments by [Anujesh-Ansh](https://github.com/Anujesh-Ansh).
 
 ## Sneak Peek 👀
 
