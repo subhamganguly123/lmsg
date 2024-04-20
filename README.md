@@ -18,14 +18,8 @@ Express your heartfelt affection with this special Love Message Website, dedicat
 
 ## Sneak Peek 👀
 
-Check out the adorable Love Message Website in action!
-
-https://github.com/Anujesh-Ansh/Love-Message/assets/110138469/605eac56-8047-41e4-b332-ef247dc47ab1
 
 
-## Credits 💖
 
-- Special thanks to Sakshi &hearts; for being the inspiration behind this project!
-- Made with ❤️ by [Anujesh-Ansh](https://github.com/Anujesh-Ansh).
 
-Let's make Sakshi's day brighter and show her just how much she is loved! 💞
+
